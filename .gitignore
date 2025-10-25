@@ -1,6 +1,7 @@
-# Ignore virtual environment
+# Ignore virtual environment and cache
 .venv/
 __pycache__/
 
-# Ignore CSV/data files if you want privacy
-
+# Ignore DejaVu font files
+*.ttf
+*Fonts License.txt
