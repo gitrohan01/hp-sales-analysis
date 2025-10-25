@@ -3,7 +3,4 @@
 __pycache__/
 
 # Ignore CSV/data files if you want privacy
-hp_sales_data.csv
-monthly_sales.png
-region_sales.png
-HP_Laptop_Sales_Report.pdf
+
